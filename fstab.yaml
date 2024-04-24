@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe-my.sharepoint.com/personal/saphalj_adobe_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsaphalj%5Fadobe%5Fcom%2FDocuments%2Fsaphal%2Ffranklin%2Dstorefront&view=0
+  /: https://adobe-my.sharepoint.com/:f:/r/personal/saphalj_adobe_com/Documents/saphal/franklin-storefront?csf=1&web=1&e=leKNJU
 
 folders:
   /products/: /products/default
